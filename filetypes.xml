@@ -8,6 +8,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="tpl" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
